@@ -4852,10 +4852,10 @@
 "@yoast/browserslist-config@file:packages/browserslist-config":
   version "1.2.2"
 
-"@yoast/grunt-plugin-tasks@^2.2.1":
-  version "2.2.1"
-  resolved "https://registry.yarnpkg.com/@yoast/grunt-plugin-tasks/-/grunt-plugin-tasks-2.2.1.tgz#854914c3ad92f5f7570b2475ccffec3e36d41e42"
-  integrity sha512-quOiDfFCl9wSCXi1geey15Hvd8olTdXoEDRi5+KVKB1+Yb+lzP5H5dmLtWTLGtG5/nE5g1/YFaxWq/TBICjRoQ==
+"@yoast/grunt-plugin-tasks@^2.3":
+  version "2.3.0"
+  resolved "https://registry.yarnpkg.com/@yoast/grunt-plugin-tasks/-/grunt-plugin-tasks-2.3.0.tgz#9dcefbd64fd3a301fbb9ab55307e1b48f232bbd9"
+  integrity sha512-1NudJYAKOaGKveLYv3axZ+ecCrL1gSikkZZynev7m//dCEt+WhuX0wzimGBGiwrHtkbMGPKBFjBS+CFhPM3jIA==
   dependencies:
     "@yoast/browserslist-config" "^1.0.0"
     autoprefixer "^9.7.2"
@@ -12139,9 +12139,9 @@ grunt-git@^1.0.14:
   dependencies:
     flopmang "^1.0.0"
 
-"grunt-glotpress@https://github.com/Yoast/grunt-glotpress.git#master":
+"grunt-glotpress@git+https://github.com/Yoast/grunt-glotpress.git#master":
   version "0.3.0"
-  resolved "https://github.com/Yoast/grunt-glotpress.git#e6ccc69c2532d126f5d8a30397ffd012e55b6eec"
+  resolved "git+https://github.com/Yoast/grunt-glotpress.git#e6ccc69c2532d126f5d8a30397ffd012e55b6eec"
   dependencies:
     request "^2.88.0"
     request-promise-native "^1.0.7"
@@ -20802,10 +20802,10 @@ select-hose@^2.0.0:
   resolved "https://registry.yarnpkg.com/select-hose/-/select-hose-2.0.0.tgz#625d8658f865af43ec962bfc376a37359a4994ca"
   integrity sha1-Yl2GWPhlr0Psliv8N2o3NZpJlMo=
 
-select2@^4.1.0-rc.0:
-  version "4.1.0-rc.0"
-  resolved "https://registry.yarnpkg.com/select2/-/select2-4.1.0-rc.0.tgz#ba3cd3901dda0155e1c0219ab41b74ba51ea22d8"
-  integrity sha512-Hr9TdhyHCZUtwznEH2CBf7967mEM0idtJ5nMtjvk3Up5tPukOLXbHUNmh10oRfeNIhj+3GD3niu+g6sVK+gK0A==
+select2@4.0.13:
+  version "4.0.13"
+  resolved "https://registry.yarnpkg.com/select2/-/select2-4.0.13.tgz#0dbe377df3f96167c4c1626033e924372d8ef44d"
+  integrity sha512-1JeB87s6oN/TDxQQYCvS5EFoQyvV6eYMZZ0AeA4tdFDYWN3BAGZ8npr17UBFddU0lgAt3H0yjX3X6/ekOj1yjw==
 
 select@^1.1.2:
   version "1.1.2"
